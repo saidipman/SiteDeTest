@@ -1,0 +1,42 @@
+Array
+(
+    [partie1] => Array
+        (
+            [nom] => Hamza
+            [prenom] => sakugaj
+            [cne] => jg
+            [cin] => jyg
+            [date] => 2017-12-09
+            [lieuN] => adagr
+            [nationalite] => gdaz
+            [adresse] => gdsza
+            [ville] => Casablanca
+            [pays] => Maroc
+            [tele] => hdh
+            [email] => jgqd
+        )
+
+    [partie2] => Array
+        (
+            [serieB] => 4
+            [dernierDO] => 45
+            [etablissement] => 56
+            [autreDip] => 76
+        )
+
+    [partie3] => Array
+        (
+            [note1annee] => kqhd
+            [note2annee] => ljhkh
+            [moyenneGD] => kjh
+            [classement] => kjh
+        )
+
+    [partie4] => Array
+        (
+            [entreprise1] => 
+            [fonction1] => 
+            [periode1] => 
+        )
+
+)

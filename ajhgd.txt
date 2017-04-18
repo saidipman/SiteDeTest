@@ -1,0 +1,42 @@
+Array
+(
+    [partie1] => Array
+        (
+            [nom] => ajhgd
+            [prenom] => jgds
+            [cne] => jgsd
+            [cin] => hgsd
+            [date] => 2016-11-29
+            [lieuN] => szasj
+            [nationalite] => ijsd
+            [adresse] => hdzs
+            [ville] => Casablanca
+            [pays] => Maroc
+            [tele] => dsh
+            [email] => uhsu
+        )
+
+    [partie2] => Array
+        (
+            [serieB] => sjh
+            [dernierDO] => hjh
+            [etablissement] => jh
+            [autreDip] => jh
+        )
+
+    [partie3] => Array
+        (
+            [note1annee] => zsujio
+            [note2annee] => ijdzsi
+            [moyenneGD] => ijsio
+            [classement] => ijsi
+        )
+
+    [partie4] => Array
+        (
+            [entreprise1] => 
+            [fonction1] => 
+            [periode1] => 
+        )
+
+)

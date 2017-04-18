@@ -1,0 +1,12 @@
+<option>Casablanca</option>
+<option>Rabat</option>
+<option>Tetouane</option>
+<option>Fés</option>
+<option>Sale</option>
+<option>Meknes</option>
+<option>Ifrane</option>
+<option>Azrou</option>
+<option>Merrakech</option>
+<option>Laayoune</option>
+<option>Smara</option>
+<option>Tanger</option>
